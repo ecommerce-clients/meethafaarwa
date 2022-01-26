@@ -1,0 +1,1 @@
+var SubDomain = 'meethafaarwa'; var SiteID = '0B370C07-F748-40BC-8DE5-6505D37F8C05'; var host = 'https://api.eratest.site';
